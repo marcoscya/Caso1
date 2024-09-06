@@ -1,0 +1,29 @@
+{
+    "name": "Aplicacion Web Progresiva",
+    "short_name": "PWA",
+    "start_url": "./index.php",
+    "display": "standalone",
+    "orientation": "landscape",
+    "background_color": "#f5f7fd",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "./icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "./Captura.png",
+            "sizes": "320x320",
+            "type": "image/png"
+        },
+        {
+            "src": "./Desktop.png",
+            "sizes": "983x628",
+            "type": "image/png",
+            "form_factor": "wide"
+        }
+    ]
+    }
