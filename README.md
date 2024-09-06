@@ -1,9 +1,9 @@
 ## Detalles
--Pagina web responsive se adapta a diferentes tamaños tanto en escritorios como en dispositivos.
--Aplicacion web progresiva.
--Todo el contenedor donde se sueltan los archivos es arrastrable
--Los botones descagar y borrar:
-  *Descagar: 
+- **Pagina web responsive se adapta a diferentes tamaños tanto en escritorios como en dispositivos.
+- **Aplicacion web progresiva.
+- **Todo el contenedor donde se sueltan los archivos es arrastrable
+- **Los botones descagar y borrar:
+   Descagar: 
           -Descarga los archivos ya sea uno o multiples archivos que se visualizaran en el container2 en un formato .zip con la cadena temporal
   *Eliminar:
           -Borrara todos los archivos que se vizualicen.
